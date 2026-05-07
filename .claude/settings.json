@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Write(aidlc-docs/**)",
+      "Edit(aidlc-docs/**)",
+      "Read(aidlc-docs/**)",
+      "Bash(mkdir -p aidlc-docs/**)"
+    ]
+  }
+}
