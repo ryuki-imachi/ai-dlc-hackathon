@@ -34,13 +34,16 @@ pre-ai-dlc/
     └── team/           ← チームメンバー個別の意見
         ├── umitsu.md
         ├── yagi.md
-        └── yakumo.md
+        ├── yakumo.md
+        ├── tarekatsu.md
+        └── after.md     ← AI-DLC Inception を一通り経たあとの追加レビュー意見
 ```
 
 ## 注意事項
 
 - `03-proposal.md` は `04-brainstorm/` の前に書かれた**仮版**。最新の論点・反対意見・追加アイデアは `04-brainstorm/` 側にある。両方を統合した最終版はまだ存在しない。
 - `04-brainstorm/personas/` は AI による多面評価、`04-brainstorm/team/` は実在のチームメンバーによる意見。重みづけが必要なら区別すること。
+- `04-brainstorm/team/after.md` は **AI-DLC Inception を一通り経たあとに出た追加レビュー意見**（時系列としては最新）。`aidlc-docs/` 側の Inception 成果物への反映は未対応のため、再開時に確認すること。
 
 ## AI-DLC でやってほしいこと
 
