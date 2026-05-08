@@ -1,6 +1,6 @@
 # サボリスト — AI-DLC ハッカソン提案書
 
-> AWS AI-DLC ハッカソン 2026 への提案。コンセプトの詳細は [`concept.md`](./concept.md)、ブレストの記録は [`memo.md`](./memo.md) を参照。
+> AWS AI-DLC ハッカソン 2026 への提案。コンセプトの詳細は [`02-concept.md`](./02-concept.md)、ブレストの記録は [`01-memo.md`](./01-memo.md) を参照。提案後の全員ブレストは [`04-brainstorm/`](./04-brainstorm/) にまとめている。
 
 ---
 
@@ -99,7 +99,7 @@ Inception フェーズで Intent ドキュメントを書く際、ペルソナ�
 
 ### 2.3 Unit 分解の適切さ ★★★★★
 
-6 Unit に綺麗に分解可能（[`concept.md`](./concept.md) に詳細）：
+6 Unit に綺麗に分解可能（[`02-concept.md`](./02-concept.md) に詳細）：
 
 1. **通知ミュート Unit** — 端末通知を分類して仕事系を抑制
 2. **自動返信代行 Unit** — Slack/Gmail/LINE の受信に AI が一次返信
@@ -218,4 +218,6 @@ Inception フェーズで Intent ドキュメントを書く際、ペルソナ�
 
 ## 7. 関連ドキュメント
 
-- [`memo.md`](./memo.md) — 全アイデアブレストの記録
+- [`01-memo.md`](./01-memo.md) — 初回個人ブレストの全記録
+- [`02-concept.md`](./02-concept.md) — コンセプト整理メモ
+- [`04-brainstorm/`](./04-brainstorm/) — 提案書をたたき台にした全員ブレスト（ペルソナ別 / チームメンバー別）
